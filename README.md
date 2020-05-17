@@ -1,3 +1,7 @@
+## Update the creds in credentials.js
+  - NODESMITH_API= to your end point.
+  - PRIVATE_KEY = private key to your wallet.
+
 # Babel 7 Node API Starter base
 
 - Babel 7 so you can use all the babel goodness you want on your server
