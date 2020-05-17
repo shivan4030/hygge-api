@@ -1,0 +1,2 @@
+export const PRIVATE_KEY='421d6b4b8b0983c67e769b541c8c931fb38c37f6182381afe1b28cfa6b2dc753814a6fd179c5a0afb42581285e71f701a37bb5bd98381b3eae40c152b75c4b49';
+export const NODESMITH_API='https://aion.api.nodesmith.io/v1/mastery/jsonrpc?apiKey=335dbc4024b9425295fc29567834c0e1';
